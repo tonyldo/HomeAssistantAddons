@@ -1,0 +1,3 @@
+[submodule "BrazilianForecastIO"]
+	path = BrazilianForecastIO
+	url = https://github.com/tonyldo/BrazilianForecastIO.git
